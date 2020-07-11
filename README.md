@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Run The Application
-cd randoms
-flutter run
+cd randoms <br>
+flutter run <br>
 
