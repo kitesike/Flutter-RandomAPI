@@ -1,6 +1,6 @@
 # randoms
 
-A new Flutter project.
+A Flutter project to extract results from randomapi.me api and display it.
 
 ## Getting Started
 
